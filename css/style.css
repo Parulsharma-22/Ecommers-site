@@ -415,8 +415,9 @@ footer i{
     
     }
     .nav1 .left{
-        flex-basis: 35%;
-        letter-spacing: 0.2px;
+        flex-basis: 50%;
+        letter-spacing: 0.1px;
+        line-height: 15px;
     }
     .nav1 .left a{  
         margin: 0 2px;
